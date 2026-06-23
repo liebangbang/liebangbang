@@ -52,7 +52,7 @@ With over **10 years of HR leadership** experience across Haier, Mengniu, and Ze
   <p>Identify and recruit high-impact technical leaders. From senior engineers to CTOs, we find the people who move the needle.</p>
 </td>
 <td width="33%" align="center">
-  <h3>🎓<br>Career Training<br><sub>知班班 ZhiBanBan</sub></h3>
+  <h3>🎓<br>Career Training<br><sub>职班班 ZhiBanBan</sub></h3>
   <p>Help professionals navigate their careers with clarity. Resume review, interview prep, offer negotiation — we've got you.</p>
 </td>
 </tr>
