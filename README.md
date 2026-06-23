@@ -34,7 +34,7 @@ I'm currently seeking exceptional people in **AI Agent** and **Embodied AI / Rob
 | 🦾 **Embodied AI / Robotics** | Chief Scientist (Embodied AI) · Robotics Product Manager · Reinforcement Learning Engineer · VLA Researcher · End-to-End Model Deployment Engineer |
 | 🏗️ **Technical Leadership** | CTO · VP Engineering · Senior AI/ML Tech Lead |
 
-**Geography:** Opportunities across China and global markets. Bilingual roles welcome.
+**Geography:** Opportunities across China.
 
 ---
 
