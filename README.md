@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/weiyanqing)
 [![Website](https://img.shields.io/badge/Website-beslinkbest.com-2F81F7?style=for-the-badge&logo=google-chrome)](https://bestlinkbest.com)
 [![Email](https://img.shields.io/badge/Email-job@liebangbang.com-EA4335?style=for-the-badge&logo=gmail)](mailto:job@liebangbang.com)
+[![WeChat](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-liebangbang-07C160?style=for-the-badge&logo=wechat)](https://github.com/liebangbang)
 
 </div>
 
@@ -61,8 +62,8 @@ If you're a developer, engineer, or technical leader, here's why you might want 
 | Time | Role | Company |
 |------|------|---------|
 | `2021 - Now` | **Founder** | B&B Group |
-| `2019 - 2020` | Recruitment Ops Manager | Zepp Health  |
-| `2018 - 2018` | Senior Recruiting Manager |  Mengniu|
+| `2019 - 2020` | Recruitment Ops Manager | Zepp Health |
+| `2018 - 2018` | Senior Recruiting Manager |  Mengniu |
 | `2015 - 2018` | HRM | Haier |
 
 ---
@@ -96,6 +97,7 @@ If you're a developer, engineer, or technical leader, here's why you might want 
 Whether you're passively browsing or actively looking, if you care about building a meaningful career — let's chat.
 
 📧 **job@liebangbang.com**
+💬 **微信：liebangbang**
 🌐 **[bestlinkbest.com](https://bestlinkbest.com)**
 💼 **[LinkedIn](https://www.linkedin.com/in/weiyanqing)**
 
@@ -119,5 +121,5 @@ Whether you're passively browsing or actively looking, if you care about buildin
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BestlinkBest&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=liebangbang&color=blue&style=flat-square" alt="Profile Views" />
 </div>
