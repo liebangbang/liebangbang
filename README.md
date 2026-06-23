@@ -61,16 +61,16 @@ If you're a developer, engineer, or technical leader, here's why you might want 
 | Time | Role | Company |
 |------|------|---------|
 | `2021 - Now` | **Founder** | B&B Group |
-| `2019 - 2020` | Recruitment Ops Manager | Zepp Health (Smart Wearables) |
-| `2018 - 2018` | Senior Recruiting Manager |  (Mengniu) |
-| `2015 - 2018` | HRM | (Haier) |
+| `2019 - 2020` | Recruitment Ops Manager | Zepp Health  |
+| `2018 - 2018` | Senior Recruiting Manager |  Mengniu|
+| `2015 - 2018` | HRM | Haier |
 
 ---
 
 ## 🎓 Education
 
-- **MBA, Human Resources** — 中国人民大学 (Renmin University of China)
-- **B.S. Marketing** — 太原理工大学 (Taiyuan University of Technology)
+- **MBA, Human Resources** — Renmin University of China
+- **B.S. Marketing** — Taiyuan University of Technology
 
 ---
 
