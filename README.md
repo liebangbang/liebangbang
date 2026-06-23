@@ -17,9 +17,9 @@
 
 ## 🙋‍♂️ About Me
 
-I'm the **Founder of B&B Group**, a talent solutions company. a professional service firm dedicated to employer branding, executive search, and career consulting.
+I'm the **Founder of B&B Group**, a talent solutions company. a professional service firm dedicated to employer branding, executive search, and career consulting. My GitHub username liebangbang comes from 猎帮帮 — our executive search brand。
 
-With over **10 years of HR leadership** experience across Haier, Mengniu, and Zepp Health, I've spent my career bridging the gap between great companies and great people.
+With over **10 years of HR leadership** experience across Haier, Mengniu, and Zepp Health, I've spent my career bridging the gap between great companies and great people，Enable everyone to enjoy the pleasure of work.
 
 > 🎯 **I connect outstanding tech talent with outstanding opportunities.**
 
