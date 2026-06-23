@@ -29,11 +29,11 @@ With over **10 years of HR leadership** experience across Haier, Mengniu, and Ze
 
 > **bestlinkbest.com** — a talent solutions company with four specialized business units.
 
-| Brand | Domain | Focus |
-|-------|--------|-------|
-| 🔍 **LieBangBang** | liebangbang.com | Executive Search — senior technical & business leaders across manufacturing, healthcare, internet, entertainment & consumer goods |
-| 🎓 **ZhiBanBan** | zhibanban.com | Career Training — resume restructuring, interview coaching, offer negotiation & career planning |
-| 🎬 **QiXiuXiu** | qixiuxiu.com | Employer Branding — content design, video & photo production, corporate storytelling |
+| Brand | Focus |
+|-------|-------|
+| 🔍 LieBangBang | Executive Search — senior technical & business leaders across manufacturing, healthcare, internet |
+| 🎓 ZhiBanBan | Career Training — resume restructuring, interview coaching, offer negotiation & career planning |
+| 🎬 QiXiuXiu | Employer Branding — content design, video & photo production, corporate storytelling |
 
 🌐 Personal Site: **[liebangbang.github.io](https://liebangbang.github.io)**
 
