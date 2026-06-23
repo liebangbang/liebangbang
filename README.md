@@ -68,8 +68,8 @@ Whether you're passively browsing or actively looking — if you care about buil
 
 <div align="center">
 
-📧 **[job@liebangbang.com](mailto:job@liebangbang.com)**
 💬 **WeChat: liebangbang**
+📧 **[job@liebangbang.com](mailto:job@liebangbang.com)**
 🌐 **[bestlinkbest.com](https://bestlinkbest.com)**
 💼 **[LinkedIn](https://www.linkedin.com/in/weiyanqing)**
 
