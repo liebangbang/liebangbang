@@ -31,9 +31,10 @@ With over **10 years of HR leadership** experience across Haier, Mengniu, and Ze
 
 | Brand | Focus |
 |-------|-------|
-| 🔍 LieBangBang | Executive Search — senior technical & business leaders across manufacturing, healthcare, internet |
-| 🎓 ZhiBanBan | Career Training — resume restructuring, interview coaching, offer negotiation & career planning |
-| 🎬 QiXiuXiu | Employer Branding — content design, video & photo production, corporate storytelling |
+| 🎬 企秀秀 | Employer Branding — content design, video & photo , corporate storytelling，enhancing employer reputation|
+| 🔍 猎帮帮 | Executive Search — senior technical & business leaders across AI, Robotics, manufacturing, internet |
+| 🎓 职班班 | Career Training — resume restructuring, interview coaching, offer negotiation & career planning |
+
 
 🌐 Personal Site: **[iweiyanqing.github.io](https://iweiyanqing.github.io)**
 
@@ -44,15 +45,15 @@ With over **10 years of HR leadership** experience across Haier, Mengniu, and Ze
 <table>
 <tr>
 <td width="33%" align="center">
-  <h3>🎬<br>Employer Branding<br><sub>企秀秀 QiXiuXiu</sub></h3>
+  <h3>🎬<br>Employer Branding<br><sub> QiXiuXiu</sub></h3>
   <p>Help companies tell their story to the right audience. Build authentic employer brands that attract top technical talent.</p>
 </td>
 <td width="33%" align="center">
-  <h3>🔍<br>Executive Search<br><sub>猎帮帮 LieBangBang</sub></h3>
+  <h3>🔍<br>Executive Search<br><sub> LieBangBang</sub></h3>
   <p>Identify and recruit high-impact technical leaders. From senior engineers to CTOs, we find the people who move the needle.</p>
 </td>
 <td width="33%" align="center">
-  <h3>🎓<br>Career Training<br><sub>职班班 ZhiBanBan</sub></h3>
+  <h3>🎓<br>Career Training<br><sub> ZhiBanBan</sub></h3>
   <p>Help professionals navigate their careers with clarity. Resume review, interview prep, offer negotiation — we've got you.</p>
 </td>
 </tr>
