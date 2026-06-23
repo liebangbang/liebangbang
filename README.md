@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yanqing+Wei+%E9%AD%8F%E5%BD%A6%E5%8D%BF;Founder+%40+B%26B+Group;Actively+Hiring+AI+%26+Robotics+Talent;Everyone+Enjoys+A+Good+Job" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yanqing+Wei+%E9%AD%8F%E5%BD%A6%E5%8D%BF;Founder+%40+B%26B+Group;Actively+Hiring+for+AI+Agent+%26+Embodied+AI;Everyone+Enjoys+A+Good+Job" alt="Typing SVG" />
 
 </div>
 
@@ -24,17 +24,28 @@ My GitHub username `liebangbang` comes from **猎帮帮 LieBangBang**, the execu
 
 ---
 
-## 🚀 Who I'm Looking For
+## 🚀 Who We're Looking For
 
-I'm currently seeking exceptional people in **AI Agent** and **Embodied AI / Robotics**:
+We're currently hiring for **top-tier large model companies**. If you work in any of the following areas, let's talk:
 
-| Area | Roles We're Hiring |
-|------|----------------------|
-| 🤖 **AI Agents** | Agent Research Scientist · Agent Full-stack Engineer · AI Product Manager · Agent Framework Developer |
-| 🦾 **Embodied AI / Robotics** | Chief Scientist (Embodied AI) · Robotics Product Manager · Reinforcement Learning Engineer · VLA Researcher · End-to-End Model Deployment Engineer |
-| 🏗️ **Technical Leadership** | CTO · VP Engineering · Senior AI/ML Tech Lead |
+### 🤖 AI Agent
 
-**Geography:** Opportunities across China.
+| Role | Focus |
+|------|-------|
+| **Research Scientist** | Agent architecture, reasoning, planning, multi-agent systems |
+| **Engineer** | Full-stack agent development, tool-use, orchestration, deployment |
+| **Product Manager** | Agent product design, user experience, go-to-market strategy |
+
+### 🦾 Embodied AI / Robotics
+
+| Role | Focus |
+|------|-------|
+| **Chief Scientist** | Research leadership in embodied intelligence |
+| **Bipedal Robot Motion Control Expert** | Locomotion, dynamic balance, whole-body control |
+| **Robot Learning Engineer** | Reinforcement Learning, VLA (Vision-Language-Action), sim-to-real |
+| **End-to-End Deployment Engineer** | Model optimization, on-device inference, real-time systems |
+
+**Geography:** Opportunities across China .
 
 ---
 
@@ -57,8 +68,8 @@ Whether you're passively browsing or actively looking — if you care about buil
 
 <div align="center">
 
-💬 **WeChat: liebangbang**
 📧 **[job@liebangbang.com](mailto:job@liebangbang.com)**
+💬 **WeChat: liebangbang**
 🌐 **[bestlinkbest.com](https://bestlinkbest.com)**
 💼 **[LinkedIn](https://www.linkedin.com/in/weiyanqing)**
 
@@ -68,13 +79,13 @@ Whether you're passively browsing or actively looking — if you care about buil
 
 <div align="center">
 
-### 🧠 AI Agent · Embodied AI / Robotics — We're Hiring
+### 🤖 AI Agent · Embodied AI — We're Hiring for Top-Tier Companies
 
 | For Talent | For Companies |
 |------------|---------------|
-| Open roles in AI/Agent/Robotics | Employer branding that attracts top talent |
-| Career advice, no strings attached | Executive search for senior technical roles |
-| Direct founder access | End-to-end talent solution |
+| Agent & Embodied AI open roles | Executive search for senior AI/Robotics talent |
+| Free career advice, direct founder access | Employer branding that attracts top engineers |
+| Opportunities at top large model companies | End-to-end talent solution |
 
 </div>
 
